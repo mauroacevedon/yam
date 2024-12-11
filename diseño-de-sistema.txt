@@ -1,0 +1,48 @@
+Paleta de colores:
+
+Color principal: #4CAF50 (Verde Bosque)
+Color secundario: #2196F3 (Azul Brillante)
+Color de acento: #FFB300 (Amarillo Ocre)
+Colores neutrales: #FFFFFF (Blanco), #546E7A (Gris Carbón)
+
+Tipografía:
+
+Fuente principal: Montserrat (Google Fonts)
+
+Usos: Títulos, subtítulos, navegación
+Pesos: Regular, Medium, Bold
+
+
+Fuente secundaria: Lato (Google Fonts)
+
+Usos: Cuerpo de texto, etiquetas, detalles
+Pesos: Regular, Italic, Bold
+
+
+
+Iconografía:
+
+Estilo: Iconos de línea delgada con bordes redondeados
+Paleta de colores: Utilizará los colores de la paleta principal y de acento
+Tamaños: 24px, 32px, 48px
+
+Elementos de Interfaz:
+
+Tamaños de fuente:
+
+Títulos: 32px
+Subtítulos: 24px
+Cuerpo de texto: 16px
+Etiquetas/detalles: 14px
+
+
+Espaciado:
+
+Márgenes y relleno: 16px, 24px, 32px
+Espacio entre elementos: 8px, 16px, 24px
+
+
+Botones:
+
+Primario: Relleno de #4CAF50, texto en blanco
+Secundario: Borde de #2196F3, texto en #2196F3
