@@ -1,22 +1,19 @@
-// components/HeroSection.js
-export default function HeroSection() {
+
+export default function HeroSectionu() {
   return (
     <div className="m-5% relative flex flex-col lg:flex-row items-center justify-between min-h-screen bg-white px-6 lg:px-20 py-10">
       {/* Contenedor del Texto */}
       <div className="lg:w-1/2 text-center lg:text-left">
         <h1 className="font-bold text-4xl lg:text-5xl mb-6 text-custom-dark">
-          Descubre el poder de YamApp
+          Tu negocio en internet Ya con Yam
         </h1>
         <p className="text-custom-dark text-lg lg:text-xl mb-8">
-          Descubre el poder para crear, gestionar y vender en línea con YamApp.
+          Empieza a vender y gestionar tu presencia en linea con Yam
         </p>
         <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4">
-          <button className="bg-primary-main text-white py-3 px-6 rounded-md text-lg font-medium hover:bg-primary-hover transition">
-            Regístrate Ahora
-          </button>
-          <button className="border border-primary-main text-primary-main py-3 px-6 rounded-md text-lg font-medium hover:bg-primary-hover hover:text-white transition">
-            Prueba Gratis
-          </button>
+        <button class="bg-sky-500 text-white py-3 px-6 rounded-lg text-lg font-medium hover:bg-sky-600 transition">
+          Prueba Ahora Gratis
+        </button>
         </div>
       </div>
 

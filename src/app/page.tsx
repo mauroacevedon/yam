@@ -1,19 +1,15 @@
 import HeroSection from './/components/HeroSection'
 import NavBar from './Navbar'
-// import SimpleEditor from "../components/SimpleEditor";
-// import PricingCard from "../components/PricingCard";
-// import KeyFeature from "../components/KeyFeature";
-// import Footer from "../components/Footer";
+import CardColumns from './/components/CardColumns'
+import ContactCTA from './/components/ContactCTA'
 
 export default function Home() {
   return (
-    <div className="">
+    <div>
       <NavBar />
       <HeroSection />
-      {/* <SimpleEditor />
-      <PricingCard />
-      <KeyFeature />
-      <Footer /> */}
+      <CardColumns />
+      <ContactCTA />
     </div>
   );
 }
