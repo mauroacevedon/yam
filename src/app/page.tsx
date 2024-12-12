@@ -6,7 +6,6 @@ import ContactCTA from './/components/ContactCTA'
 export default function Home() {
   return (
     <div>
-      <NavBar />
       <HeroSection />
       <CardColumns />
       <ContactCTA />
